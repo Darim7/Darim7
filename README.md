@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+**Welcom to my profile! I'm Zhen! :smile:**
+
+- 🤔 I’m looking for help with building a home lab.
+
+- 🌱 I’m currently learning basics of Operating System Kernels!
+
+- ⚡ Fun fact: I was a double major in Computer Science :computer: and Psychology :beginner:
 
 <!--
 **Darim7/Darim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
