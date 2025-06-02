@@ -2,6 +2,8 @@
 
 **Welcom to my profile! I'm Zhen! :smile:**
 
+- :whale: I'm a DevOps Engineer (well, at least learning to be one).
+
 - 🤔 I’m looking for help with building a home lab.
 
 - 🌱 I’m currently learning basics of Operating System Kernels!
