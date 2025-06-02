@@ -1,14 +1,12 @@
-# Hi there 👋
+# 👋 Hi, I'm Zhen!
 
-**Welcom to my profile! I'm Zhen! :smile:**
+:whale: I'm a DevOps Engineer (well, at least learning to be one).
 
-- :whale: I'm a DevOps Engineer (well, at least learning to be one).
+:mortar_board: I studied Computer Science :computer: and Psychology :beginner: at Stony Brook University!
 
-- 🤔 I’m looking for help with building a home lab.
+🤔 I’m looking for help with building a home lab :pleading_face:
 
-- 🌱 I’m currently learning basics of Operating System Kernels!
-
-- ⚡ Fun fact: I was a double major in Computer Science :computer: and Psychology :beginner:
+🌱 I’m currently learning basics of Operating System Kernels!
 
 <!--
 **Darim7/Darim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
